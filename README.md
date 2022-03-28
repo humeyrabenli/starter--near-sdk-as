@@ -1,2 +1,4 @@
 # starter--near-sdk-as
-patika.dev near homework
+www.patika.dev near homework
+
+https://explorer.testnet.near.org/transactions/4YsayGdRU791wEMUfzSha4bWctckLauekFJUdbxrjs2i
